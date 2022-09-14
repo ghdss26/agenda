@@ -7,27 +7,173 @@ body{
 	font-family: 'Roboto', sans-serif;
 	font-size: 1em;
 	font-weight:400;
-	
 }
 
-.Botao1 {
+img{
+	
+	display: block;
+	margin: 0px auto;
+}
+
+h1 {
+	
+	text-align: center;
+}
+
+.Botao_Acessar {
 	
 	text-decoration: none; 
 	padding: 5px 10px 5px 10px;
-	color: green;
+	color: white;
 	font-size: 1.2em;
 	font-weight: 700;
 	border-radius: 5px;
 	border: 0; 
 	cursor:pointer;
+	background-color: blue;
+	position: relative;
+	left: 620px;
 } 
+
+.Botao_Novo_Contato {
+	
+	text-decoration: none; 
+	padding: 5px 10px 5px 10px;
+	color: white;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+	border: 0; 
+	cursor:pointer;
+	background-color: blue;
+	position: relative;
+	left: 540px;
+} 
+
+.Botao_Adicionar {
+	
+	text-decoration: none; 
+	padding: 5px 10px 5px 10px;
+	color: white;
+	margin-top: 50px;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+	border: 0; 
+	cursor:pointer;
+	background-color: blue;
+	position: relative;
+	left: 620px;
+} 
+
+.Botao_Alterar {
+	
+	text-decoration: none; 
+	padding: 5px 10px 5px 10px;
+	margin-top: 50px;
+	color: white;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+	border: 0; 
+	cursor:pointer;
+	background-color: blue;
+	position: relative;
+	left: 620px;
+} 
+
+.Botao_Editar{
+	
+	text-decoration: none; 
+	padding: 5px 10px 5px 10px;
+	color: white;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+	border: 0; 
+	cursor:pointer;
+	background-color: blue;
+	left: 540px;
+}
+
+.Botao_Relatorio {
+	
+	text-decoration: none; 
+	padding: 5px 10px 5px 10px;
+	color: white;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+	border: 0; 
+	cursor:pointer;
+	background-color: red;
+	position: relative;
+	left: 570px;
+} 
+
+.Botao_Excluir{
+	
+	text-decoration: none; 
+	padding: 5px 10px 5px 10px;
+	color: white;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+	border: 0; 
+	cursor:pointer;
+	background-color: red;
+}
+
 
 .Caixa1 {
 	
+	position: relative;
+	left: 500px;
 	width: 320px;
 	padding: 5px; 
 	margin-bottom: 10px; 
-	border: 1px solid black; 
+	border: 1px solid rgb(210, 232, 27); 
 	border-radius: 5px;
 }
 
+.Caixa2 {
+	
+	position: relative;
+	left: 500px;
+	padding: 5px; 
+	margin-bottom: 10px; 
+	border: 1px solid #808080; 
+	border-radius: 5px;
+}
+
+#Caixa3 {
+	
+	position: relative;
+	left: 500px;
+	padding: 5px; 
+	margin-bottom: 10px; 
+	border: 1px solid #ff0000;
+}
+
+#tabela {
+	
+	margin: auto;
+	margin-top: 50px;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+#tabela th {
+	
+	border: 1px solid #ddd; 
+	padding: 10px; 
+	text-align: center; 
+	background-color: #000000; 
+	color: rgb(115, 210, 22);
+} 
+
+#tabela td {
+	
+	border: 1px solid #ddd; 
+	padding: 10px; 
+}
