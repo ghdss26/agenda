@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+body{
+	
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	font-weight:400;
+	
+}
+
+.Botao1 {
+	
+	text-decoration: none; 
+	padding: 5px 10px 5px 10px;
+	color: green;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+	border: 0; 
+	cursor:pointer;
+} 
+
+.Caixa1 {
+	
+	width: 320px;
+	padding: 5px; 
+	margin-bottom: 10px; 
+	border: 1px solid black; 
+	border-radius: 5px;
+}
+

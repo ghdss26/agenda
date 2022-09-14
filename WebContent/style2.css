@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+#tabela {
+	
+	margin-top: 30px;
+	border-collapse: collapse;
+}
+
+#tabela th {
+	
+	border: 1px solid #ddd; 
+	padding: 10px; 
+	text-align: left; 
+	background-color: #000000; 
+	color: rgb(115, 210, 22);
+} 
+
+#tabela td {
+	
+	border: 1px solid #ddd; 
+	padding: 10px; 
+}
