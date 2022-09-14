@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <link rel="icon" href="imagens/telefone.png"> 
-<link rel="stylesheet" href="style1.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	
@@ -16,7 +16,7 @@
 		<table> 
 		
 			<tr>
-				<td> <input type="text" name="idcon" id="caixa3" readonly value="<%out.print(request.getAttribute("idcon"));%>"></td>
+				<td> <input type="text" name="idcon" id="Caixa3" readonly value="<%out.print(request.getAttribute("idcon"));%>"></td>
 			</tr>
 		
 			<tr>
@@ -33,7 +33,7 @@
 			
 		</table>
 		
-		<input type="button" value="Salvar" class="Botao1" onclick="validar()">
+		<input type="button" value="Salvar" class="Botao_Alterar" onclick="validar()">
 		
 	</form>
 	
