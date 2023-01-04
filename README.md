@@ -5,9 +5,7 @@ Projeto cujo o objetivo é adicionar as informações dos seus colegas novos par
 ## Conhecimentos Adquiridos nesse projeto 
 
 Melhor entendimento sobre as camadas Movel, View, Controller que vai distinguir todo armazenamento dos dados para criar ações entre o Front e Back-end. 
-Pacotes de Banco de dados Jdbc do My sql, onde será feito toda a aquisição do crud entre as paginas web por um clique de botão, validção de formúlarios no Java Script
-onde se obter falta de preenchimento nos campos dos usuários, não será preenchida a informação para o banco de dados, formatação de estilo no css, listagem de contatos
-utilizando o jsp para armazenar as informações na pagina com integração do html e conceitos e boas praticas de orientação a objetos para realizar os cruds. 
+Pacotes de Banco de dados Jdbc do My sql, onde será feito toda a aquisição do crud entre as paginas web por um clique de botão, validção de formúlarios no Java Script onde se obter falta de preenchimento nos campos dos usuários, não será preenchida a informação para o banco de dados, formatação de estilo no css, listagem de contatos utilizando o jsp para armazenar as informações na pagina com integração do html e conceitos e boas praticas de orientação a objetos para realizar os cruds. 
 
 ## Tecnologia Utilizada 
 
